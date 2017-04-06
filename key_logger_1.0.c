@@ -4,7 +4,7 @@
 
 #include<stdio.h>
 #include<windows.h>
-
+#############################
 int main(){
 	int vkey,last_key_state[0xFF];
 	int isCAPSLOCK,isNUMLOCK;
