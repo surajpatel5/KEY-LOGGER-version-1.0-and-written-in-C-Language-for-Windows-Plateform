@@ -19,7 +19,7 @@ int main(){
 	FILE *kh;
 	char KEY_LOG_FILE[]="key_capture_log.txt";
 	//: making last key state 0
-	for(vkey=0;vkey<0xFF;vkey++){
+	for(vkey=0;vkey<0xFF;vkey++){XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 		last_key_state[vkey]=0;
 	}
 	
