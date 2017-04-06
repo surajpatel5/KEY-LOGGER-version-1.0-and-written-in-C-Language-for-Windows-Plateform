@@ -1,0 +1,2 @@
+# KEY-LOGGER-version-1.0-and-written-in-C-Language-for-Windows-Plateform
+dedicated to programming and IT students&amp;programmers, a key logger for capturing keys for windows os with main and basic functionalities in form of version 1.0, and used language is C Programming Language. if anyone need professional version of this key logger then  he/she can contact me...https://www.facebook.com/profile.php?id=100006129615061 https://youtu.be/Pulhjaq6h2o DOWNLOAD: http://surajpatel.ezyro.com/key_logger_1.0.c
